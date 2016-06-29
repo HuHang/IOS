@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "HOURS LOGGED"; ObjectID = "0Z3-Zu-sXa"; */
+"0Z3-Zu-sXa.text" = "HOURS LOGGED";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "FFA-Me-cTe"; */
+"FFA-Me-cTe.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "I4K-FQ-Psg"; */
+"I4K-FQ-Psg.normalTitle" = "CHANGE";
+
+/* Class = "UILabel"; text = "ClearInsight Anywhere"; ObjectID = "IJ1-3F-7XV"; */
+"IJ1-3F-7XV.text" = "ClearInsight Anywhere";
+
+/* Class = "UILabel"; text = "ClearInsight Anywhere"; ObjectID = "Jri-Jh-m86"; */
+"Jri-Jh-m86.text" = "ClearInsight Anywhere";
+
+/* Class = "UILabel"; text = "Let's acheive something special today!"; ObjectID = "NpF-L7-piQ"; */
+"NpF-L7-piQ.text" = "Let's acheive something special today!";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Q9e-1J-AdY"; */
+"Q9e-1J-AdY.placeholder" = "Password";
+
+/* Class = "UITextField"; text = "Project Number"; ObjectID = "Y5X-l8-i41"; */
+"Y5X-l8-i41.text" = "Project Number";
+
+/* Class = "UIButton"; normalTitle = "Working Type"; ObjectID = "bBu-pk-vLm"; */
+"bBu-pk-vLm.normalTitle" = "Working Type";
+
+/* Class = "UIButton"; normalTitle = "CHECK OUT"; ObjectID = "cr1-Du-ch6"; */
+"cr1-Du-ch6.normalTitle" = "CHECK OUT";
+
+/* Class = "UILabel"; text = "05:30"; ObjectID = "hKl-4j-BSS"; */
+"hKl-4j-BSS.text" = "05:30";
+
+/* Class = "UILabel"; text = "ClearInsight Anywhere"; ObjectID = "hWD-az-8Cl"; */
+"hWD-az-8Cl.text" = "ClearInsight Anywhere";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "hgT-v9-vhP"; */
+"hgT-v9-vhP.normalTitle" = "LOG IN";
+
+/* Class = "UIButton"; normalTitle = "Task ID"; ObjectID = "kSD-ce-z7c"; */
+"kSD-ce-z7c.normalTitle" = "Task ID";
+
+/* Class = "UIButton"; normalTitle = "CHECK IN"; ObjectID = "mpg-iy-3ui"; */
+"mpg-iy-3ui.normalTitle" = "CHECK IN";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "nF2-f6-8ZO"; */
+"nF2-f6-8ZO.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "ClearInsight Anywhere"; ObjectID = "vGw-DI-GaE"; */
+"vGw-DI-GaE.text" = "ClearInsight Anywhere";

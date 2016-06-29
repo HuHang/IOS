@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Checkin
+
+  Created by Rajat Lala on 15/10/15.
+  Copyright © 2015 Solulab. All rights reserved.
+*/
+
+Hello="Hello";
+
+LOGIN="登录";
+USERNAME="用户名";
+PASSWORD="密码";
+PROJECT_NUMBER="项目编号";
+WORKING_TYPE="工作类型";
+TASK_ID="任务标识";
+CHANGE="更改";
+CHECK_IN="签到";
+CHECK_OUT="签退";
+MANDATORY_FIELDS ="所有字段是强制性的！";
+NO_INTERNET ="无网络连接，请稍后重试！";
+ENTER_USERNAME="请输入用户名！";
+ENTER_PASSWORD="请输入密码！";
+ALERT="提示";
+PLEASE_WAIT="数据上传中…";
+OK="确定";
+CANCEL="撤消";
+SETTING="设置";
+LOCATION_FIELD="开启定位服务，获取当前位置";
+HOURS_LOG="登录时长";
+LOGOUT_MSG="您确定退出吗？";
+CHECKOUT_MSG="您确定要签退？总时间记录";
+YES="是";
+NO="否";
+QUOTE="让我们取得今天一些特别的东西";
+TASK_FIELD="请选择任务ID";
+WORKING_FIELD="请选择工作类型";
+PROJECT_FIELD="请填写项目编号";
+CHANGE_CITY="切换";
+TIME_OUT = "请求超时。";
+CONNECT_BLE =  "连接蓝牙";
+PLEASE_REFRESH = "刷新获取数据";
+REBOOT_ALERT="抱歉。意想不到的事情发生，并应用程序必须以记录的时间重新启动。";
+NO_DATA="没有找到数据！";
+SELECT_CITY="请选择城市";
+MINUTES="秒钟";
+INVALID_EMAIL="无效的用户名！";
+DATA_CHANGE="抱歉。意想不到的事情发生，并应用程序必须以记录的时间重新启动。";
+ENTER_KPI="进入KPI";
+SUBMITTED="提交";
+UNSUBMITTED="未提交";
+PROJECT_NR="项目编号";
+TASK_ID="任务标识";
+WORKING_TYPE = "工作类型";
+CITY="城市";
+EXCEPTION="异常";
+STARTTIME="签到时间";
+ENDTIME="签退时间";

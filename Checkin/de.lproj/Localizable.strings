@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  Checkin
+
+  Created by Rajat Lala on 15/10/15.
+  Copyright © 2015 Solulab. All rights reserved.
+*/
+
+Hello="Hallo";
+
+LOGIN="EINLOGGEN";
+LOGOUT="ABMELDEN";
+USERNAME="Benutzername";
+PASSWORD="Passwort";
+PROJECT_NUMBER="Projektnummer";
+WORKING_TYPE="Arbeitsorte";
+TASK_ID="Task-ID";
+CHANGE="CHANGE";
+CHECK_IN="EINCHECKEN";
+CHECK_OUT="AUSCHECKEN";
+MANDATORY_FIELDS ="Alle Felder sind Pflichtfelder!";
+NO_INTERNET="Sie scheinen nicht über die richtige Internet-Konnektivität im Moment. Bitte versuchen Sie es später noch einmal!";
+ENTER_USERNAME="Bitte geben Sie Benutzername!";
+ENTER_PASSWORD="Bitte geben Sie Passwort!";
+ALERT="Benachrichtigung";
+PLEASE_WAIT="Warte bitte...";
+OK="OK";
+CANCEL="Absagen";
+LOCATION_FIELD="Wenn Sie nicht zulassen, dass diese app zu Ihrem aktuellen Standort zu erhalten, werden wir nicht in der Lage, Ihre Stadt zu validieren!";
+HOURS_LOG="Stunden absolviert";
+LOGOUT_MSG="Sind Sie sicher, dass Sie sich ausloggen?";
+CHECKOUT_MSG="Sind Sie sicher, dass Sie Schauen Sie suchen? Insgesamt benötigte Zeit angemeldet";
+YES="Ja";
+NO="Nein";
+QUOTE="Lassen Sie uns etwas Besonderes erreichen Sie noch heute!";
+TASK_FIELD="Bitte geben Sie Task-ID";
+WORKING_FIELD="Bitte geben Sie Arbeitstyp";
+PROJECT_FIELD="Bitte geben Sie Projektnummer";
+CHANGE_CITY="Stadt wechseln";
+TIME_OUT = "Die Zeitüberschreitung der Anforderung.";
+PLEASE_REFRESH = "Bitte aktualisieren Sie um Daten zu erhalten";
+REBOOT_ALERT="Es tut uns leid. Geschah etwas Unerwartetes und Anwendung muss, um die Zeit, melden Sie sich neu zu starten.";
+NO_DATA="Keine Daten gefunden!";
+SELECT_CITY="Bitte wählen Sie Stadt";
+MINUTES="Minuten";
+INVALID_EMAIL="Ungültiger Benutzername!";
+DATA_CHANGE="Es tut uns leid. Geschah etwas Unerwartetes und Anwendung muss, um die Zeit, melden Sie sich neu zu starten.";
+ENTER_KPI="Geben Sie Kpi";
+SUBMITTED="eingereicht";
+UNSUBMITTED="Nicht gesendete";
+PROJECT_NR="Projekt Nr";
+TASK_ID="Task-ID";
+WORKING_TYPE = "Arbeitsorte";
+CITY="Stadt";
+EXCEPTION="Ausnahme";

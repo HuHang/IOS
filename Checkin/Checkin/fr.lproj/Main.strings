@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "5bk-2u-AUf"; */
+"5bk-2u-AUf.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Check In"; ObjectID = "Kir-sZ-EYB"; */
+"Kir-sZ-EYB.text" = "Check In";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "OQG-zh-iZZ"; */
+"OQG-zh-iZZ.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "g35-aq-9tX"; */
+"g35-aq-9tX.placeholder" = "Password";

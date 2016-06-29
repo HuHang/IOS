@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  Checkin
+
+  Created by Rajat Lala on 15/10/15.
+  Copyright © 2015 Solulab. All rights reserved.
+*/
+
+Hello="Hello";
+
+LOGIN="LOG IN";
+LOGOUT="LOGOUT";
+USERNAME="Username";
+PASSWORD="Password";
+PROJECT_NUMBER="Project Number";
+WORKING_TYPE="Working Type";
+TASK_ID="Task ID";
+CHANGE="CHANGE";
+CHECK_IN="CHECK IN";
+CHECK_OUT="CHECK OUT";
+MANDATORY_FIELDS ="All fields are mandatory!";
+NO_INTERNET="You appear to do not have proper internet connectivity at the moment. Please try again later!";
+ENTER_USERNAME="Please enter Username!";
+ENTER_PASSWORD="Please enter Password!";
+ALERT="Alert";
+PLEASE_WAIT="Please Wait...";
+OK="OK";
+CANCEL="Cancel";
+SETTING="Setting";
+LOCATION_FIELD="Turn On Location Service To 'Checkin' To Determine Your Location";
+HOURS_LOG="HOURS LOGGED";
+LOGOUT_MSG="Are you sure you want to logout?";
+CHECKOUT_MSG="Are you sure you want to Check out? Total time logged";
+YES="Yes";
+NO="No";
+QUOTE="Let's achieve something special today!";
+TASK_FIELD="Please select Task ID";
+WORKING_FIELD="Please select Working Type";
+PROJECT_FIELD="Please Enter Project Number";
+CHANGE_CITY="Change City";
+TIME_OUT = "The request timed out.";
+CONNECT_BLE = "Connect BLE";
+PLEASE_REFRESH = "Please Refresh view to get data";
+REBOOT_ALERT="Sorry.  Something unexpected happened and application must restart in order to log the time";
+NO_DATA="No Data Found!";
+SELECT_CITY="Please select city";
+MINUTES="Seconds";
+INVALID_EMAIL="Invalid Username!";
+DATA_CHANGE="Sorry.  Something unexpected happened and application must restart in order to log the time.";
+ENTER_KPI="Enter Kpi";
+SUBMITTED="Submitted";
+UNSUBMITTED="Unsubmitted";
+PROJECT_NR="Project Nr";
+TASK_ID="Task ID";
+WORKING_TYPE = "Working Type";
+CITY="City";
+EXCEPTION="Exception";
+STARTTIME="CheckIn Time";
+ENDTIME="CheckOut Time";
