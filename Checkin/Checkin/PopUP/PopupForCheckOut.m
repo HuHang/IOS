@@ -21,7 +21,7 @@
 
 -(void)viewWillAppear:(BOOL)animated
 {
-    self.lblAlertMsg.text=[NSString stringWithFormat:@"%@ : %@",NSLocalizedString(@"CHECKOUT_MSG", ""), [[NSUserDefaults standardUserDefaults] valueForKey:@"TimerString"]];
+    self.lblAlertMsg.text=[NSString stringWithFormat:@"%@",NSLocalizedString(@"CHECKOUT_MSG", ""), [[NSUserDefaults standardUserDefaults] valueForKey:@"TimerString"]];
     [self.btnNo setTitle:NSLocalizedString(@"NO", "") forState:UIControlStateNormal];
     [self.btnYes setTitle:NSLocalizedString(@"YES", "") forState:UIControlStateNormal];
     self.lblAlert.text=NSLocalizedString(@"ALERT", "");

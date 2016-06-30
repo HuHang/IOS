@@ -152,7 +152,7 @@ class HistoryDetail: UIViewController,popUpViewDelegate1,MBProgressHUDDelegate {
         arrProperties.addObject("\(NSLocalizedString("ENDTIME", comment: "")) : \(endTime)")
 
         tblHistoryDetail.separatorStyle=UITableViewCellSeparatorStyle.None
-        //tblHistoryDetail.scrollEnabled=false
+        tblHistoryDetail.scrollEnabled=false
     }
     
     override func didReceiveMemoryWarning() {

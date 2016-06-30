@@ -112,6 +112,7 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
             {
                 NSUserDefaults.standardUserDefaults().setObject("YES", forKey: "CheckoutInterNet")
                 self.HUD.hide(true)
+              
                 self.Redirect()
             }
             
@@ -304,6 +305,7 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
             {
                 btnCheckOut.enabled = false
                 btnLogout.enabled = false
+                lblTimer.hidden = false
                 
                 btnCheckOut.backgroundColor=UIColor(red: 128.0/255.0, green: 205.0/255.0, blue: 237.0/255.0, alpha: 1.0)
             }
@@ -311,6 +313,7 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
             {
                 btnCheckOut.enabled = true
 //                btnLogout.enabled = true
+                lblTimer.hidden = true
                 
                 btnCheckOut.backgroundColor=UIColor(red: 1.0/255.0, green: 156.0/255.0, blue: 220.0/255.0, alpha: 1.0)
                 
