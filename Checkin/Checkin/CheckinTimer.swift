@@ -39,8 +39,8 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
     override func viewWillAppear(animated: Bool)
     {
         btnCheckOut.showsTouchWhenHighlighted = true
-        btnLogout.enabled = false
-        btnLogout.hidden = true
+//        btnLogout.enabled = false
+//        btnLogout.hidden = true
         //begin time
         let date = NSDate()
         let timeFormatter = NSDateFormatter()
@@ -242,7 +242,8 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
         NSUserDefaults.standardUserDefaults().synchronize()
         
         //let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        let vc = self.storyboard!.instantiateViewControllerWithIdentifier("Login") as! ViewController
+//        let vc = self.storyboard!.instantiateViewControllerWithIdentifier("Login") as! ViewController
+        let vc = self.storyboard!.instantiateViewControllerWithIdentifier("CheckinDescription") as! CheckinDescription
         self.navigationController?.pushViewController(vc, animated: true)
     }
     func dismissPopUpViewNo(view: UIViewController!)
@@ -262,7 +263,9 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
     dismissPopupViewControllerWithanimationType(MJPopupViewAnimationFade)
         
        // let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        let vc = self.storyboard!.instantiateViewControllerWithIdentifier("CheckinDescription") as! CheckinDescription
+//        let vc = self.storyboard!.instantiateViewControllerWithIdentifier("CheckinDescription") as! CheckinDescription
+        let vc = self.storyboard!.instantiateViewControllerWithIdentifier("CheckinTimer") as! CheckinTimer
+        
         self.navigationController?.pushViewController(vc, animated: true)
     }
     func dismissPopUpCheckOutNo(view: UIViewController!)
@@ -304,7 +307,7 @@ class CheckinTimer: UIViewController , popUpViewDelegate1, popUpCheckOutDelegate
             if(seconds < 30)
             {
                 btnCheckOut.enabled = false
-                btnLogout.enabled = false
+//                btnLogout.enabled = false
                 lblTimer.hidden = false
                 
                 btnCheckOut.backgroundColor=UIColor(red: 128.0/255.0, green: 205.0/255.0, blue: 237.0/255.0, alpha: 1.0)
