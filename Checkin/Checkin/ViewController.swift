@@ -106,7 +106,7 @@ class ViewController: UIViewController,MBProgressHUDDelegate {
     {
         
         //User info
-        let strURL = String(format: "http://192.168.1.27:3000/api/v1/custom/user_info?%@", txtUsername.text!)
+        let strURL = String(format: "http://192.168.1.27:8000/api/v1/custom/user_info?%@", txtUsername.text!)
         
         JsonClass.JsonCallBackCity(strURL, username: NSUserDefaults.standardUserDefaults().valueForKey("username")! as! String, password: NSUserDefaults.standardUserDefaults().valueForKey("password")! as! String, countrycode: "", sucessBlock: { (responce:AnyObject!) -> Void in
             let responseDict = responce as! NSDictionary
@@ -172,7 +172,7 @@ class ViewController: UIViewController,MBProgressHUDDelegate {
                 let valid = isValidEmail(txtUsername.text!) as Bool
                 if(valid == true)
                 {
-                    JsonClass.JsonCallBack("http://192.168.1.27:3000/api/v1/user_session", parameter: dict as [NSObject : AnyObject]!, sucessBlock: { (responce:AnyObject!) -> Void in
+                    JsonClass.JsonCallBack("http://192.168.1.27:8000/api/v1/user_session", parameter: dict as [NSObject : AnyObject]!, sucessBlock: { (responce:AnyObject!) -> Void in
                         print(responce)
                         let msg = "result_code"
                         let dic = responce as! NSDictionary
