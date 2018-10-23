@@ -14,8 +14,8 @@
 /* Class = "UILabel"; text = "ClearInsight Anywhere"; ObjectID = "Jri-Jh-m86"; */
 "Jri-Jh-m86.text" = "ClearInsight Anywhere";
 
-/* Class = "UILabel"; text = "Let's acheive something special today!"; ObjectID = "NpF-L7-piQ"; */
-"NpF-L7-piQ.text" = "Let's acheive something special today!";
+/* Class = "UILabel"; text = "Let's achieve something special today!"; ObjectID = "NpF-L7-piQ"; */
+"NpF-L7-piQ.text" = "Let's achieve something special today!";
 
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "Q9e-1J-AdY"; */
 "Q9e-1J-AdY.placeholder" = "Password";
